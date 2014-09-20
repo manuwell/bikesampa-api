@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lat: 
+  long: 
+  title: MyString
+  bikesampa_id: 1
+  online_status: MyString
+  operation_status: MyString
+  total_bikes: 1
+  address: MyString
+
+two:
+  lat: 
+  long: 
+  title: MyString
+  bikesampa_id: 1
+  online_status: MyString
+  operation_status: MyString
+  total_bikes: 1
+  address: MyString

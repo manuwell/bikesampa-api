@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  online_status: MyString
+  operation_status: MyString
+  busy_positions: MyString
+
+two:
+  online_status: MyString
+  operation_status: MyString
+  busy_positions: MyString
